@@ -1,7 +1,6 @@
 .ipynb_checkpoints/
 .DS_Store
 __pycache__/
-data/
 CITATION.cff
 plots/
 Prelim/
